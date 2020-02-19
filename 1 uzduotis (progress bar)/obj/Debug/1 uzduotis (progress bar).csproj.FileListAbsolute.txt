@@ -1,0 +1,39 @@
+C:\Users\Lukas\Desktop\Kolegija\Daugiagijis programavimas\2 kurso 2 pusmetis\1 uzduotis (progress bar)\1 uzduotis (progress bar)\bin\Debug\1 uzduotis (progress bar).exe.config
+C:\Users\Lukas\Desktop\Kolegija\Daugiagijis programavimas\2 kurso 2 pusmetis\1 uzduotis (progress bar)\1 uzduotis (progress bar)\bin\Debug\1 uzduotis (progress bar).exe
+C:\Users\Lukas\Desktop\Kolegija\Daugiagijis programavimas\2 kurso 2 pusmetis\1 uzduotis (progress bar)\1 uzduotis (progress bar)\bin\Debug\1 uzduotis (progress bar).pdb
+C:\Users\Lukas\Desktop\Kolegija\Daugiagijis programavimas\2 kurso 2 pusmetis\1 uzduotis (progress bar)\1 uzduotis (progress bar)\obj\Debug\1 uzduotis (progress bar).csprojAssemblyReference.cache
+C:\Users\Lukas\Desktop\Kolegija\Daugiagijis programavimas\2 kurso 2 pusmetis\1 uzduotis (progress bar)\1 uzduotis (progress bar)\obj\Debug\_1_uzduotis__progress_bar_.Form1.resources
+C:\Users\Lukas\Desktop\Kolegija\Daugiagijis programavimas\2 kurso 2 pusmetis\1 uzduotis (progress bar)\1 uzduotis (progress bar)\obj\Debug\_1_uzduotis__progress_bar_.Properties.Resources.resources
+C:\Users\Lukas\Desktop\Kolegija\Daugiagijis programavimas\2 kurso 2 pusmetis\1 uzduotis (progress bar)\1 uzduotis (progress bar)\obj\Debug\1 uzduotis (progress bar).csproj.GenerateResource.cache
+C:\Users\Lukas\Desktop\Kolegija\Daugiagijis programavimas\2 kurso 2 pusmetis\1 uzduotis (progress bar)\1 uzduotis (progress bar)\obj\Debug\1 uzduotis (progress bar).csproj.CoreCompileInputs.cache
+C:\Users\Lukas\Desktop\Kolegija\Daugiagijis programavimas\2 kurso 2 pusmetis\1 uzduotis (progress bar)\1 uzduotis (progress bar)\obj\Debug\1 uzduotis (progress bar).exe
+C:\Users\Lukas\Desktop\Kolegija\Daugiagijis programavimas\2 kurso 2 pusmetis\1 uzduotis (progress bar)\1 uzduotis (progress bar)\obj\Debug\1 uzduotis (progress bar).pdb
+C:\Users\Lukas\Desktop\Daugiagijis programavimas\2 kurso 2 pusmetis\1 uzduotis (progress bar)\1 uzduotis (progress bar)\bin\Debug\1 uzduotis (progress bar).exe.config
+C:\Users\Lukas\Desktop\Daugiagijis programavimas\2 kurso 2 pusmetis\1 uzduotis (progress bar)\1 uzduotis (progress bar)\bin\Debug\1 uzduotis (progress bar).exe
+C:\Users\Lukas\Desktop\Daugiagijis programavimas\2 kurso 2 pusmetis\1 uzduotis (progress bar)\1 uzduotis (progress bar)\bin\Debug\1 uzduotis (progress bar).pdb
+C:\Users\Lukas\Desktop\Daugiagijis programavimas\2 kurso 2 pusmetis\1 uzduotis (progress bar)\1 uzduotis (progress bar)\obj\Debug\1 uzduotis (progress bar).csprojAssemblyReference.cache
+C:\Users\Lukas\Desktop\Daugiagijis programavimas\2 kurso 2 pusmetis\1 uzduotis (progress bar)\1 uzduotis (progress bar)\obj\Debug\_1_uzduotis__progress_bar_.Form1.resources
+C:\Users\Lukas\Desktop\Daugiagijis programavimas\2 kurso 2 pusmetis\1 uzduotis (progress bar)\1 uzduotis (progress bar)\obj\Debug\_1_uzduotis__progress_bar_.Properties.Resources.resources
+C:\Users\Lukas\Desktop\Daugiagijis programavimas\2 kurso 2 pusmetis\1 uzduotis (progress bar)\1 uzduotis (progress bar)\obj\Debug\1 uzduotis (progress bar).csproj.GenerateResource.cache
+C:\Users\Lukas\Desktop\Daugiagijis programavimas\2 kurso 2 pusmetis\1 uzduotis (progress bar)\1 uzduotis (progress bar)\obj\Debug\1 uzduotis (progress bar).csproj.CoreCompileInputs.cache
+C:\Users\Lukas\Desktop\Daugiagijis programavimas\2 kurso 2 pusmetis\1 uzduotis (progress bar)\1 uzduotis (progress bar)\obj\Debug\1 uzduotis (progress bar).exe
+C:\Users\Lukas\Desktop\Daugiagijis programavimas\2 kurso 2 pusmetis\1 uzduotis (progress bar)\1 uzduotis (progress bar)\obj\Debug\1 uzduotis (progress bar).pdb
+C:\Users\doman\Desktop\paskaitos\2 kursas\2 pusmetis\daugiagyjis programavimas\1 darbas bliat\1 uzduotis (progress bar)\1 uzduotis (progress bar)\bin\Debug\1 uzduotis (progress bar).exe.config
+C:\Users\doman\Desktop\paskaitos\2 kursas\2 pusmetis\daugiagyjis programavimas\1 darbas bliat\1 uzduotis (progress bar)\1 uzduotis (progress bar)\bin\Debug\1 uzduotis (progress bar).exe
+C:\Users\doman\Desktop\paskaitos\2 kursas\2 pusmetis\daugiagyjis programavimas\1 darbas bliat\1 uzduotis (progress bar)\1 uzduotis (progress bar)\bin\Debug\1 uzduotis (progress bar).pdb
+C:\Users\doman\Desktop\paskaitos\2 kursas\2 pusmetis\daugiagyjis programavimas\1 darbas bliat\1 uzduotis (progress bar)\1 uzduotis (progress bar)\obj\Debug\1 uzduotis (progress bar).csprojAssemblyReference.cache
+C:\Users\doman\Desktop\paskaitos\2 kursas\2 pusmetis\daugiagyjis programavimas\1 darbas bliat\1 uzduotis (progress bar)\1 uzduotis (progress bar)\obj\Debug\_1_uzduotis__progress_bar_.Form1.resources
+C:\Users\doman\Desktop\paskaitos\2 kursas\2 pusmetis\daugiagyjis programavimas\1 darbas bliat\1 uzduotis (progress bar)\1 uzduotis (progress bar)\obj\Debug\_1_uzduotis__progress_bar_.Properties.Resources.resources
+C:\Users\doman\Desktop\paskaitos\2 kursas\2 pusmetis\daugiagyjis programavimas\1 darbas bliat\1 uzduotis (progress bar)\1 uzduotis (progress bar)\obj\Debug\1 uzduotis (progress bar).csproj.GenerateResource.cache
+C:\Users\doman\Desktop\paskaitos\2 kursas\2 pusmetis\daugiagyjis programavimas\1 darbas bliat\1 uzduotis (progress bar)\1 uzduotis (progress bar)\obj\Debug\1 uzduotis (progress bar).csproj.CoreCompileInputs.cache
+C:\Users\doman\Desktop\paskaitos\2 kursas\2 pusmetis\daugiagyjis programavimas\1 darbas bliat\1 uzduotis (progress bar)\1 uzduotis (progress bar)\obj\Debug\1 uzduotis (progress bar).exe
+C:\Users\doman\Desktop\paskaitos\2 kursas\2 pusmetis\daugiagyjis programavimas\1 darbas bliat\1 uzduotis (progress bar)\1 uzduotis (progress bar)\obj\Debug\1 uzduotis (progress bar).pdb
+C:\Users\doman\Desktop\paskaitos\2 kursas\2 pusmetis\daugiagyjis programavimas\1 darbas, bandymai\1 darbas pavyzdys\1 uzduotis (progress bar)\1 uzduotis (progress bar)\bin\Debug\1 uzduotis (progress bar).exe.config
+C:\Users\doman\Desktop\paskaitos\2 kursas\2 pusmetis\daugiagyjis programavimas\1 darbas, bandymai\1 darbas pavyzdys\1 uzduotis (progress bar)\1 uzduotis (progress bar)\bin\Debug\1 uzduotis (progress bar).exe
+C:\Users\doman\Desktop\paskaitos\2 kursas\2 pusmetis\daugiagyjis programavimas\1 darbas, bandymai\1 darbas pavyzdys\1 uzduotis (progress bar)\1 uzduotis (progress bar)\bin\Debug\1 uzduotis (progress bar).pdb
+C:\Users\doman\Desktop\paskaitos\2 kursas\2 pusmetis\daugiagyjis programavimas\1 darbas, bandymai\1 darbas pavyzdys\1 uzduotis (progress bar)\1 uzduotis (progress bar)\obj\Debug\1 uzduotis (progress bar).csprojAssemblyReference.cache
+C:\Users\doman\Desktop\paskaitos\2 kursas\2 pusmetis\daugiagyjis programavimas\1 darbas, bandymai\1 darbas pavyzdys\1 uzduotis (progress bar)\1 uzduotis (progress bar)\obj\Debug\_1_uzduotis__progress_bar_.Form1.resources
+C:\Users\doman\Desktop\paskaitos\2 kursas\2 pusmetis\daugiagyjis programavimas\1 darbas, bandymai\1 darbas pavyzdys\1 uzduotis (progress bar)\1 uzduotis (progress bar)\obj\Debug\_1_uzduotis__progress_bar_.Properties.Resources.resources
+C:\Users\doman\Desktop\paskaitos\2 kursas\2 pusmetis\daugiagyjis programavimas\1 darbas, bandymai\1 darbas pavyzdys\1 uzduotis (progress bar)\1 uzduotis (progress bar)\obj\Debug\1 uzduotis (progress bar).csproj.GenerateResource.cache
+C:\Users\doman\Desktop\paskaitos\2 kursas\2 pusmetis\daugiagyjis programavimas\1 darbas, bandymai\1 darbas pavyzdys\1 uzduotis (progress bar)\1 uzduotis (progress bar)\obj\Debug\1 uzduotis (progress bar).exe
+C:\Users\doman\Desktop\paskaitos\2 kursas\2 pusmetis\daugiagyjis programavimas\1 darbas, bandymai\1 darbas pavyzdys\1 uzduotis (progress bar)\1 uzduotis (progress bar)\obj\Debug\1 uzduotis (progress bar).pdb
